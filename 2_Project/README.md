@@ -61,6 +61,7 @@ plt.show()
 ### Results
 
 ![Visualization of Top Skills](/2_Project/Images/Likelihood_of_Skills_Requested_in_US_Job_Postings.png)
+
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
 ### Insights
@@ -96,6 +97,7 @@ plt.show()
 ### Results
 
 ![Trending Top Skills for Data Analyst jobs in US](/2_Project/Images/Trending_Top_Skills_for_Data_Analysts_in_the_US.png)
+
 *Line graph visualizing the trending skills for data analyst jobs in US.*
 
 ### Insights
@@ -124,6 +126,7 @@ plt.show()
 ### Results
 
 ![Salary distribuion of the Top Data roles in US](/2_Project/Images/Salary_Distributions_of_Data_Jobs_in_the_US.png)
+
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 ### Insights
@@ -168,6 +171,7 @@ plt.show()
 ### Results
 
 ![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](/2_Project/Images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
+
 *Bar graphs showing the highest paid skills and most in-demand skills for Data Analyst job postings in US.*
 
 ### Insights
@@ -210,6 +214,7 @@ plt.show()
 ### Results
 
 ![Most Optimal Skills for Data Analysts in the US](/2_Project/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US.png)
+
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
 ### Insights
@@ -247,6 +252,7 @@ plt.show()
 ### Results
 
 ![Most Optimal Skills for Data Analysts in the US in terms of technology](/2_Project/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Technology.png)
+
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.*
 
 ### Insights
